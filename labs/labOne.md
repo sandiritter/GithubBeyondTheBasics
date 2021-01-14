@@ -3,8 +3,8 @@
 This is a quick exercise in forking a repo
 
 1. Log in to your personal github account, if needed.
-2. In a browser, navigate to https://github.com/microsoft/vscode
+2. In a browser, navigate to https://github.com/sandiritter/GithubBeyondTheBasics
 3. In the upper right-hand corner, click on Fork
 ![Fork](images/fork.png)
 4. If you only have access to your own personal repo, this will fork VSCode into your account.  However, if you have access to multiple repos, you will have to specify where to fork it.
-5. You now be on the main page of your newly forked repo.
+5. You now be on the main page of your newly forked repo -> github.com/{yourUsername}/GithubBeyondTheBasics
