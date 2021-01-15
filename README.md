@@ -1,10 +1,17 @@
 ## Welcome to GitHub Beyond the Basics
 
-This repository represents all of the associated files and resources for the Interalliance github course
+This contains all of the files and resources for the Interalliance github course
 
-#### Lab Exercises
+### Slides
+[Github Beyond The Basics](labs/labOne.md)
+
+### Lab Exercises
 [LabOne](labs/labOne.md)
+[LabTwo](labs/labTwo.md)
 
-#### Resources
+### Resources
 [Additional Learning Resources](docs/resources.md)
 
+### Contact Info
+Please don't hesitate to contact me if you have any questions!
+sandiritter68@gmail.com
