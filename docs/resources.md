@@ -5,4 +5,4 @@
 * [Github Glossary](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary)
 * [Git Cheatsheet Guide](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [Github Labs](https://lab.github.com/)
-* [Github Pages](https://pages.github.com/)
+* [Github Pages](https://guides.github.com/features/pages/)
