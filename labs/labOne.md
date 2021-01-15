@@ -24,15 +24,44 @@ your code, or create a new folder
    
    ```git clone https://github.com/<therepocloned>.git``` 
 5. Change directory to the new repo
-6. Create a new branch 
+6. Verify tracking is set up correctly. Start by checking what is currently setup 
+
+   ``` git remote -v```
+
+7. You should see something similar to this, where origin is your forked version of the repo
+
+   <img src="../images/origin.png" alt="drawing" width="400"/>
+
+8. Let's set upstream tracking 
+
+   ``` git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPO.git```
+
+9. Verify tracking is set up correctly
+ ``` git remote -v```
+
+1. You should now see something similar to this, where upstream is set to the repo that was forked
+
+   <img src="../images/upstream.png" alt="drawing" width="400"/>
+
+1. New we you are ready to create a new branch 
    
    ``` git checkout -b myBranchName```
    
-7. In your favorite text editor, add a new file to the quotes directory. Name the file something unique and include a favorite quote in the file.  You can copy the existing file ```sandi.html``` as a starting point if you prefer.
-8. Once done with your file, commit your changes 
+1. In your favorite text editor, open this new branch and add a new file to the quotes directory. Name the file something unique and include a favorite quote in the file.  You can copy the existing file ```sandi.html``` as a starting point if you prefer.
+
+1. Once done adding your file, check the status of you branch
+
+    ```git status```
+
+14. You should see that you have a new untracked file (which is the file you just added), so add the file to your stage area 
+
+    ```git add .```
+
+1. Now commit your changes 
 
    ```git commit -m "some meaningful message"```
-9. Now push your changes up to your repo 
+   
+1. And push your changes up to your repo 
 
    ``` git push origin my BranchName```
 
@@ -44,7 +73,7 @@ Let's create a pull request to merge your changes
 
    <img src="../images/branch.png" alt="drawing" width="400"/>
 
-3. Verify the base repo and hed repo are accurate
+3. Verify the base repo and head repo are accurate (base is the original repo and head is your branch on your forked repo)
 
    <img src="../images/base.png" alt="drawing" width="400"/>
 
