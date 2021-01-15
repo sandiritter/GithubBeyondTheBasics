@@ -42,11 +42,11 @@ Let's create a pull request to merge your changes
 1. Navigate to your repo in Github
 2. You should see a messge block indicating your branch was recently pushed. Click on ‘Compare & pull request’
 
-<img src="../images/branch.png" alt="drawing" width="400"/>
+   <img src="../images/branch.png" alt="drawing" width="400"/>
 
 3. Verify the base repo and hed repo are accurate
 
-<img src="../images/base.png" alt="drawing" width="400"/>
+   <img src="../images/base.png" alt="drawing" width="400"/>
 
 4. Click ‘Create Pull Request’
 
