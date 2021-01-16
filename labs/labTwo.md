@@ -30,4 +30,4 @@
 
 <img src="../images/commit.png" alt="drawing" width="400"/>
 
-11. If you committed directly to the main branch, you cna now navigate to your site, which will be located at username.github.io (where “username” is your actual GitHub user name).
+11. If you committed directly to the main branch, you can now navigate to your site, which will be located at username.github.io (where “username” is your actual GitHub user name).
