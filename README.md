@@ -3,7 +3,7 @@
 This contains all of the files and resources for the Interalliance github course
 
 ### Slides
-[Github Beyond The Basics](beyondTheBasics.pdf)
+[Github Beyond The Basics](slides/beyondTheBasics.pdf)
 
 ### Lab Exercises
 [LabOne](labs/labOne.md)
